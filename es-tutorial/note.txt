@@ -1,0 +1,28 @@
+https://drive.google.com/drive/folders/1MmbO_pg0OYaNJJhF3X7li3A1GlKwQoj8?usp=sharing
+
+Terms:
+
+    Cluster
+    Node
+    index (table or a collection)
+
+Creating the Cluster:
+
+    windows
+    linux
+    MAC
+    docker
+
+Connection:
+
+    python
+    nodejs
+    java
+    CURL
+
+Tasks:
+
+    1. Setup the ES cluster, VERSION==7.6 (optional: kibana==7.6)
+    2. Connect
+    3. CRUD - Create, Read, Update, Delete
+    4. Search
