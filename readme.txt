@@ -1,0 +1,1 @@
+Jenkins, ansible, celery mq, elk, tf, GH actions, CircleCI, Argo

@@ -1,0 +1,1 @@
+helm install jenkins oci://registry-1.docker.io/bitnamicharts/jenkins
