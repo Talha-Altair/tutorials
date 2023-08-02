@@ -1,7 +1,7 @@
 # !pip install elasticsearch==7.6
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch([{'host': '34.93.110.192', 'port': 9200}])
+es = Elasticsearch([{'host': '34.100.236.27', 'port': 9200}])
 
 # es.indices.create(index="ctc")
 

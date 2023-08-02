@@ -1,1 +1,7 @@
-Jenkins, ansible, celery mq, elk, tf, GH actions, CircleCI, Argo
+Jenkins, ansible, elk, tf, GH actions, CircleCI 
+
+TCP UDP NFS other SMTP
+
+SSH, REST
+
+CI/CD

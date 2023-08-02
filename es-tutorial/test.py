@@ -1,13 +1,12 @@
 from elasticsearch import Elasticsearch
-es = Elasticsearch(HOST="http://localhost", PORT=9200)
-es = Elasticsearch()
+es = Elasticsearch([{'host': '34.100.236.27', 'port': 9200}])
 import pprint
 
-# es.indices.create(index="first_index")
+es.indices.create(index="first_index")
 
-# a = es.indices.exists(index="first_index")
+a = es.indices.exists(index="first_index")
 
-# print(a)
+print(a)
 
 # es.indices.delete(index="first_index")
 
